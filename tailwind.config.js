@@ -6,6 +6,7 @@ export default {
       colors: {
         primary: "#121212",
         secondary: "#232323",
+        terciary: "#343434",
         "text-input": "#232323",
       },
     },
