@@ -14,9 +14,9 @@ export default function PersonalPage() {
         Eduardo Eurico Lisin
       </span>
       <div className="flex flex-col w-screen h-screen">
-        <input
-          type="text"
-          className="m-2 mt-20 bg-secondary rounded-lg p-2 text-white w-5/12 py-20"
+        <textarea
+          rows={5}
+          className="m-2 mt-20 bg-secondary rounded-lg p-2 text-white w-5/12"
           placeholder="O que você está pensando?"
         />
         <span className="text-white ml-2">

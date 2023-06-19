@@ -39,7 +39,7 @@ export default function Chat() {
           <input
             type="text"
             placeholder="Buscar Mensagem"
-            className="w-64 h-12 bg-secondary rounded-lg p-2"
+            className="w-64 h-12 bg-secondary rounded-lg p-2 text-white"
           />
         </div>
       </div>
