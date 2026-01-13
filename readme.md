@@ -1,11 +1,11 @@
 # Como rodar o projeto
 
-## Instalações pré-projeto
+## Instalações
 
 - Node (eu uso a versão 20.7)
 - Um gerenciador de pacotes do node (o Node vem com o npm já, não precisa instalar outro se não quiser, mas eu uso e recomendo o pnpm que é mais rápido e pesa menos no HD)
 
-- Observação: tem como usar o bun também, se quiser kk, mas daí eu acho que é muita coisa pra explicar nesse documento. Caso alguém tiver interesse, é só entrar na [página deles](https://bun.sh/) e ver como funciona, é bem fácil e prático.
+- Observação: tem como usar o bun também. Caso alguém tiver interesse, é só entrar na [página deles](https://bun.sh/) e ver como funciona, é bem fácil e prático.
   - Perceba que não existe ainda uma versão pra windows, por enquanto é só linux e mac.
 
 ## Rodando o projeto
